@@ -1,5 +1,241 @@
 [
  {
+  "id": 279,
+  "price": 3500000,
+  "price_max": 3500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường Bình Thạnh",
+  "street": "Định Bộ Lĩnh",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "bếp",
+   "wc riêng",
+   "giờ giấc tự do"
+  ],
+  "description": "102 - 202\ntrống sẵn\nĐịa chỉ định bộ lĩnh\nphường bình thạnh\n3tr5/ tháng\nNội thất : kệ bếp bồn\nrửa, wc riêng\ncửa sổ thoáng\ns3 không nuôi thú\ncưng\nChi phí\nĐiện 3k/8/Kwh; Nuớc\n100k/người; Dịch vụ\n200k/phòng 2 bạn\n3Ý Miễn phí 2 xe\nGiờ giấc tự do, ra vào thẻ\ntừ , không chung chủ, máy\ngiặt chung",
+  "images": [
+   "data/img/hd_5c669ce475fbffb7.jpg",
+   "data/img/hd_76b4d7a10141ad30.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_d87865948f44777f.mp4",
+    "poster": "data/vid/v_d87865948f44777f.jpg"
+   }
+  ],
+  "updated": 1795878651
+ },
+ {
+  "id": 278,
+  "price": 4000000,
+  "price_max": 4000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Xô Viết Nghệ Tĩnh",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất"
+  ],
+  "description": "801 XVNT BÌNH THANH\nCÔNG VIÊN TẦM VU\nGiảm nhanh còn 4tr full nội thất",
+  "images": [
+   "data/img/hd_0581fd14ca27de45.jpg",
+   "data/img/hd_925231627ea952f7.jpg",
+   "data/img/hd_d97d8dfa9e384bc0.jpg"
+  ],
+  "videos": [],
+  "updated": 1795878626
+ },
+ {
+  "id": 277,
+  "price": 4200000,
+  "price_max": 4200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nguyễn Văn Thương",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "máy giặt chung",
+   "gác",
+   "máy lạnh",
+   "bếp",
+   "giờ giấc tự do",
+   "vân tay"
+  ],
+  "description": "Mã Phòng:trống sẵn mã 201\nĐịa chỉ: Nguyễn văn Thương Bình Thạnh\nGiá: 4tr2 /tháng.\nTình trạng phòng: Máy lạnh mới.\nkệ bếp. cửa số trời\nPhòng thoáng\nGác cao\ns5 khnuoi thú cưng\nChi phí\nĐiện 3.8k/Kwh; Nuớc: 120k /người; Dịch vụ: 200k/phòng\nXÍ{Ở tối đa 3 người 2 xe\nGiờ giấc tự do, ra vào vân tay. Thẻ từ , không chung chủ, máy giặt chung",
+  "images": [
+   "data/img/e8f0828a94a16b0f.jpg",
+   "data/img/hd_83de03741b90624b.jpg",
+   "data/img/hd_9cd5ddb1aa46f32f.jpg",
+   "data/img/hd_2589a04b8e95ec33.jpg",
+   "data/img/hd_b9f4a78164e29607.jpg",
+   "data/img/hd_de17efd5cd3d7e1c.jpg",
+   "data/img/hd_e1f7222d418d6b8f.jpg",
+   "data/img/hd_fc6a29f0682f73bd.jpg",
+   "data/img/e83d785b711ba368.jpg"
+  ],
+  "videos": [],
+  "updated": 1795878561
+ },
+ {
+  "id": 276,
+  "price": 3800000,
+  "price_max": 4200000,
+  "price_deal": null,
+  "area": 25.0,
+  "district": "Bình Thạnh",
+  "ward": "Phường 27",
+  "street": "Bình Quới",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang bộ",
+  "available": "Trống sẵn",
+  "available_date": null,
+  "amenities": [
+   "cửa sổ",
+   "máy lạnh",
+   "bếp"
+  ],
+  "description": "Trống lại : 408 ( lầu 4\nthang bộ nên rẻ)\nGiá phòng: 4tr2\nPhòng rộng 25m2 full nội\nthất như hình\nCửa sổ trời\nPhòng trống sẵn\nĐÐc: Bình Quới p.27\nBình Thạnh\n3tr8\nMáy lạnh, kệ bếp\nFree xe",
+  "images": [],
+  "videos": [
+   {
+    "src": "data/vid/v_d747a29200625359.mp4",
+    "poster": "data/vid/v_d747a29200625359.jpg"
+   }
+  ],
+  "updated": 1795878545
+ },
+ {
+  "id": 275,
+  "price": 4200000,
+  "price_max": 4200000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": null,
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Dự án mới đang hoàn thiện\n20 đinh bộ lĩnh bình thạnh\n4tr2",
+  "images": [
+   "data/img/hd_659f97afb8f9ce42.jpg",
+   "data/img/hd_e0009c3c1d34b014.jpg"
+  ],
+  "videos": [],
+  "updated": 1795878526
+ },
+ {
+  "id": 274,
+  "price": 3800000,
+  "price_max": 3800000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": null,
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt chung",
+   "máy lạnh",
+   "bếp"
+  ],
+  "description": "Ø8 XEM PHÒNG 24/24\nMáy lạnh, tủ bếp, tủ quần áo, tủ sách, bàn, tủ giày. Máy giặt chung.\nDién: 3.800 d/kwh\nNước: 100.000/người\nDịch vụ: 180.000 đ / phòng\nXe: 2 xe (Free)",
+  "images": [
+   "data/img/hd_53feebfbe0c6627c.jpg",
+   "data/img/hd_c7e47e86ea95372a.jpg",
+   "data/img/hd_b717dd41d6976d77.jpg",
+   "data/img/hd_5edda4caf159745d.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_af7ca63901d5aad5.mp4",
+    "poster": "data/vid/v_af7ca63901d5aad5.jpg"
+   }
+  ],
+  "updated": 1795878471
+ },
+ {
+  "id": 273,
+  "price": 4200000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 13",
+  "street": "Phạm Văn Đồng",
+  "type": "studio",
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "cửa sổ"
+  ],
+  "description": "Phạm Văn Đồng, P13, B.Thanh\nNgay cầu Bình Lợi, Trang bị thang máy.\nổ]}Studio - Cửa sổ LỚN\n3È P 101 --> 5tr00\n4tr200",
+  "images": [
+   "data/img/2989ef510f33d62b.jpg",
+   "data/img/0f13e6691507944c.jpg",
+   "data/img/960e1869c6f3cd2b.jpg"
+  ],
+  "videos": [],
+  "updated": 1795878325
+ },
+ {
   "id": 272,
   "price": 8500000,
   "price_max": 8500000,
