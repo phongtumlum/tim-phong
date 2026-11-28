@@ -1,5 +1,154 @@
 [
  {
+  "id": 295,
+  "price": 8500000,
+  "price_max": 8500000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Ung Văn Khiêm",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Ung Văn Khiêm Bình Thạnh\n2PN 8tr5 nguyên tầng\nTruy cập link để tham gia cộng đồng",
+  "images": [
+   "data/img/hd_b04840c4f9d356d4.jpg",
+   "data/img/hd_62e39acfe9dd1eda.jpg",
+   "data/img/hd_d0348152d31b7e2b.jpg",
+   "data/img/hd_7bbf79fa8fe467dc.jpg",
+   "data/img/hd_7aa4eccd98867496.jpg",
+   "data/img/2a65275c1992dccd.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_ca7baa7958e61863.mp4",
+    "poster": "data/vid/v_ca7baa7958e61863.jpg"
+   }
+  ],
+  "updated": 1795880361
+ },
+ {
+  "id": 294,
+  "price": 9000000,
+  "price_max": 9000000,
+  "price_deal": null,
+  "area": 50.0,
+  "district": "Bình Thạnh",
+  "ward": "Phường 22",
+  "street": "Nguyễn Hữu Cảnh",
+  "type": "chung cư",
+  "layout": "2PN / 3PN",
+  "layouts": [
+   "2PN",
+   "3PN"
+  ],
+  "kind": "Chung cư",
+  "elevator": "Thang bộ",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "full nội thất",
+   "bếp",
+   "bảo vệ",
+   "vân tay"
+  ],
+  "description": "Địa chỉ: Nguyễn Hữu Cảnh, phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh.\nDiện tích: 50m2\nbancol view triệu đô- toàn cảnh các chung cư của phường 22, đón gió siêu mát , làm về chill chill là hết nước\nchấm.\nTrần cao nên rất thoáng\nLầu 2 thang bộ\nFull nội thất\nBếp tách riêng nên không sợ ám mùi\nHẻm xe hơi lớn, an ninh, văn minh.\nCamera 24/24, cửa ra vào bằng vân tay.\nGiá: 9tr\nDịch vụ\nđiện:4k/kwh\nnước: 20k/m3\nPhí dịch vụ:200k ( wifi, rác, dọn vệ sinh khu vực chung)\nxe free: 3 chiếc.",
+  "images": [
+   "data/img/hd_05cb04f19daf6905.jpg",
+   "data/img/hd_f89ccfcb25d03cb0.jpg",
+   "data/img/hd_cbbe1107d51123cc.jpg",
+   "data/img/hd_84ad9be25cd98e95.jpg",
+   "data/img/hd_08b3f168aff77495.jpg",
+   "data/img/hd_08ad2ee6399d48be.jpg",
+   "data/img/hd_3cfdc4c81857059d.jpg",
+   "data/img/hd_d878933ac7e0bd2e.jpg",
+   "data/img/5721e07ebeef4274.jpg",
+   "data/img/e5a34f45af842411.jpg",
+   "data/img/6f93f11ced012a92.jpg",
+   "data/img/c58443f8a9b0141d.jpg"
+  ],
+  "videos": [],
+  "updated": 1795880292
+ },
+ {
+  "id": 293,
+  "price": 6000000,
+  "price_max": 6000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Phan Đăng Lưu",
+  "type": "chung cư",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": "Chung cư",
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Phan Đăng Lưu Bình\nThạnh\n2PN f®6tr\nCăn hộ 2 phòng ngủ bancol sát vách Vinhomes",
+  "images": [],
+  "videos": [],
+  "updated": 1795880291
+ },
+ {
+  "id": 292,
+  "price": 12000000,
+  "price_max": 12000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Nguyễn Thượng Hiền",
+  "type": "căn hộ",
+  "layout": "2PN",
+  "layouts": [
+   "2PN"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [],
+  "description": "Nguyễn Thượng Hiền Q.Bình Thạnh\n7.2x7.4 trệt lầu 2pn 2wc\n12tr\nTin nhắn chưa đọc\nDự án mơi",
+  "images": [
+   "data/img/hd_34c44ac4d9f0fb76.jpg",
+   "data/img/hd_1068ae8c1e54116c.jpg",
+   "data/img/hd_463c583224f53b79.jpg",
+   "data/img/hd_7a5097252699baa0.jpg",
+   "data/img/hd_ff0e1070839afa14.jpg",
+   "data/img/hd_d4725292161e9486.jpg",
+   "data/img/hd_ed7f7e842cb509fb.jpg",
+   "data/img/hd_c1dedc2a9256c67b.jpg",
+   "data/img/d6b4f0e338dc308a.jpg",
+   "data/img/0f0ca2e0e2a64b5e.jpg",
+   "data/img/155c0d5213539808.jpg",
+   "data/img/4dd5083cf0be74a1.jpg",
+   "data/img/7422fd119225a5c3.jpg",
+   "data/img/23ecf4dbd914aaa2.jpg",
+   "data/img/16902f5673de34a9.jpg",
+   "data/img/2e14e61aa117f46a.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_a041ddbe4cfd1859.mp4",
+    "poster": "data/vid/v_a041ddbe4cfd1859.jpg"
+   }
+  ],
+  "updated": 1795880202
+ },
+ {
   "id": 291,
   "price": 4500000,
   "price_max": 4700000,
