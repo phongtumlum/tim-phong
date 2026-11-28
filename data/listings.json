@@ -1,5 +1,49 @@
 [
  {
+  "id": 291,
+  "price": 4500000,
+  "price_max": 4700000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 13",
+  "street": "Gần Đh Văn Lang CS3",
+  "type": null,
+  "layout": "Studio",
+  "layouts": [
+   "Studio"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "bếp",
+   "giờ giấc tự do",
+   "nuôi thú cưng",
+   "vân tay"
+  ],
+  "description": "4 Đc Phạm Văn Đồng, P13, Bình Thạnh\nP304 giá 4tr7\nĐiện 4K, nước 100k/ng, dịch vu 200k/phòng, xe free 1 chiếc. Giặt chung. Nội thất như hình\nCó thang máy\nKo nuôi pet, ko sử dụng bếp gas, ko nhận xe điện.\nNhận tối đa 2ng, 1 xe\nCửa vân tay, giờ giấc tự do, Pccc đầy đủ\nVị trí gần ĐH Văn Lang CS3\n4 Đc Phạm Văn Đồng, P13, Bình Thạnh\nP202 giá 4tr5\nĐiện 4K, nước 100k/ng, dịch vu 200k/phòng, xe free 1 chiếc. Giặt chung. Nội thất như hình\nCó thang máy\nKo nuôi pet, ko sử dụng bếp gas, ko nhận xe điện.\nNhận tối đa 2ng, 1 xe\nCửa vân tay, giờ giấc tự do, Pccc đầy đủ\nVị trí gần ĐH Văn Lang CS3\n4 Đc Phạm Văn Đồng, P13, Bình Thạnh\nP203 giá 4tr6\nĐiện 4K, nước 100k/ng, dịch vu 200k/phòng, xe free 1 chiếc. Giặt chung. Nội thất như hình\nCó thang máy\nKo nuôi pet, ko sử dụng bếp gas, ko nhận xe điện.\nNhận tối đa 2ng, 1 xe\nCửa vân tay, giờ giấc tự do, Pccc đầy đủ\nVị trí gần ĐH Văn Lang CS3",
+  "images": [
+   "data/img/hd_7b3d77844e5eb1dd.jpg",
+   "data/img/hd_2678a64bf0473b18.jpg",
+   "data/img/hd_c22f7b0b0047f16f.jpg",
+   "data/img/hd_4cb0c087a5deb60b.jpg",
+   "data/img/hd_d135225355efe270.jpg",
+   "data/img/hd_298904b40f19aa4c.jpg",
+   "data/img/hd_ec31ecff2de6887c.jpg",
+   "data/img/hd_0dc8e06672af9e0b.jpg",
+   "data/img/ae9b594dba1fa7a3.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_1f8a3d3a293c03fd.mp4",
+    "poster": "data/vid/v_1f8a3d3a293c03fd.jpg"
+   }
+  ],
+  "updated": 1795879948
+ },
+ {
   "id": 288,
   "price": 4900000,
   "price_max": 6500000,
