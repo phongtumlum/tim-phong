@@ -1,5 +1,124 @@
 [
  {
+  "id": 288,
+  "price": 4900000,
+  "price_max": 6500000,
+  "price_deal": null,
+  "area": 25.0,
+  "district": "Bình Thạnh",
+  "ward": "Phường 13",
+  "street": "Xô Viết Nghệ Tĩnh",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "gác",
+   "full nội thất"
+  ],
+  "description": "117 XVNT BÌNH THẠNH\nGÁC BAN CÔNG 6tr5\nŒ? Trống lại mã phòng : 404 ( I4 thang máy)\nPhòng rộng 25m2\nGác lớn sạch sẽ\nFull nội thất\ncuối tháng có phòng\nGiá: 4tr9\nÐc: Nơ Trang Long P.13 BT",
+  "images": [
+   "data/img/hd_c3b59bda65ae34da.jpg",
+   "data/img/hd_dff493c7534ecb9d.jpg",
+   "data/img/hd_85617234b013e897.jpg",
+   "data/img/hd_03fc5ea34d36bc3d.jpg",
+   "data/img/hd_47e3aea0c2f7481f.jpg",
+   "data/img/hd_fb6dfc33c8308258.jpg",
+   "data/img/hd_38c68e15dc1f3942.jpg",
+   "data/img/9bcab6b00ca6a1a7.jpg",
+   "data/img/4a89c934c5d196d0.jpg",
+   "data/img/1a5273c31db421f0.jpg"
+  ],
+  "videos": [],
+  "updated": 1795879666
+ },
+ {
+  "id": 287,
+  "price": 5000000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": "Phường 19",
+  "street": "Điện Biên Phủ",
+  "type": null,
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": null,
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "máy giặt riêng",
+   "full nội thất",
+   "máy lạnh",
+   "tủ lạnh",
+   "bếp"
+  ],
+  "description": "Địa chỉ: Điện Biên Phủ, Phường 19, Quận Bình Thạnh\n5tr máy giătk riêng\nĐiện: 4k/kw\nNước: 25k/khối\nPhí DV: 200k/phòng\nFree giới hạn 2xe\nFull nội thất gồm: Tủ lạnh, điều hòa, tủ quần áo, kệ bếp, máy giặt riêng",
+  "images": [
+   "data/img/hd_fd6ecf97067efee1.jpg",
+   "data/img/hd_6c584d7003cb99d7.jpg",
+   "data/img/hd_d222b96eb1db654d.jpg",
+   "data/img/hd_2da6771a30fbb8d4.jpg",
+   "data/img/hd_b42b07be7e75cca7.jpg",
+   "data/img/hd_dce23e545f4a057c.jpg",
+   "data/img/hd_92b1629b24f55f3f.jpg",
+   "data/img/hd_f2206fcba0e4c0ef.jpg",
+   "data/img/3111199f648ae8d5.jpg",
+   "data/img/8038d95b259d5e39.jpg"
+  ],
+  "videos": [],
+  "updated": 1795879590
+ },
+ {
+  "id": 286,
+  "price": 4800000,
+  "price_max": 5000000,
+  "price_deal": null,
+  "area": null,
+  "district": "Bình Thạnh",
+  "ward": null,
+  "street": "Xô Viết Nghệ Tĩnh",
+  "type": "duplex/gác",
+  "layout": "Gác (duplex)",
+  "layouts": [
+   "Gác (duplex)"
+  ],
+  "kind": null,
+  "elevator": "Thang máy",
+  "available": null,
+  "available_date": null,
+  "amenities": [
+   "ban công",
+   "gác",
+   "full nội thất",
+   "chỗ để xe"
+  ],
+  "description": "Thang máy, hầm xe\nFull nội thất\nNhận 1 xe\nXô Viết Nghệ Tĩnh\nBình Thạnh\nDuplex ban công 5tr\n4tr8\nFull nội thất\nFree xe",
+  "images": [
+   "data/img/hd_063c862cd81e4561.jpg",
+   "data/img/hd_c18631426575ee26.jpg",
+   "data/img/hd_caa3be95beae2d7d.jpg",
+   "data/img/hd_ee40e103f949d5af.jpg"
+  ],
+  "videos": [
+   {
+    "src": "data/vid/v_9c2ba946bdc320a8.mp4",
+    "poster": "data/vid/v_9c2ba946bdc320a8.jpg"
+   }
+  ],
+  "updated": 1795879541
+ },
+ {
   "id": 285,
   "price": 12000000,
   "price_max": 12000000,
